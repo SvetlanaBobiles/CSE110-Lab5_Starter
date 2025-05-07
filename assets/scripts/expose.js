@@ -14,7 +14,6 @@ function init() {
 
   let playSound = document.querySelector('button');
 
-
   //img and audio when horn is selected
   horn.addEventListener('change', function(){
     let selectedHorn = horn.value;
